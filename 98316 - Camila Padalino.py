@@ -1,3 +1,8 @@
+""" 
+Nome: Camila do Prado Padalino 
+RM: 98316
+"""
+
 def calcular_delta(a,b,c):
     delta = b ** 2 - 4 * a * c
     if delta < 0:
